@@ -37,9 +37,12 @@ p{
 }
 
 a .post-info .form{
-    font-family: 'PT Serif', serif;
-    .form-input .form-button{
-        font-family: 'PT Serif', serif;
+
+    font-family: F16;
+    src: url("../../NeueBrucke-Regular-Trial.ttf") format('truetype');
+    font-weight: bold;
+    font-style: normal;
+  
     }
 }
 #markdown-toc::before .alerts{
